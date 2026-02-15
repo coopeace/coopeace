@@ -30,7 +30,7 @@
 
 ### Technologies & Tools
 
-  ![Linux](https://img.shields.io/badge/Linux-MX%20Linux-black?style=for-the-badge\&logo=linux)
+  ![Linux](https://img.shields.io/badge/Linux-FEDORA-black?style=for-the-badge\&logo=linux)
   ![Git](https://img.shields.io/badge/Git-Using-orange?style=for-the-badge\&logo=git)
   ![SSH](https://img.shields.io/badge/SSH-Using-blue?style=for-the-badge\&logo=gnometerminal)
   ![Bash Automation](https://img.shields.io/badge/Bash%20Automation-Scripting-blue?style=for-the-badge\&logo=gnubash)
@@ -57,13 +57,6 @@
 
 I try to learn topics from **first principles** — not just copying code but knowing *why* it works.
 
----
-
-## 📊 GitHub Stats
-
-```
-https://github-readme-stats.vercel.app/api?username=coopeace&show_icons=true
-https://github-readme-streak-stats.herokuapp.com/?user=coopeace
 ```
 ---
 
