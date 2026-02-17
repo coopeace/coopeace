@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 * 🎓 Student & self‑taught programmer
-* 🐧 Linux enthusiast (MX Linux user)
+* 🐧 Linux enthusiast (Fedora Linux user)
 * 💻 Learning **C / C++ / Qt / System Programming**
 * 🧩 Interested in **Computer Networks from beginner → expert**
 * 🤖 Curious about **AI chatbots & developer tools**
